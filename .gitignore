@@ -1,0 +1,6 @@
+.env
+ghost_session_data/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
